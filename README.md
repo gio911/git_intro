@@ -1,1 +1,1 @@
-# How to use git
+Yandex Practicum course
