@@ -1,3 +1,8 @@
+
+README.md
+requirements.py
+venv
+.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
